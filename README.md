@@ -27,17 +27,17 @@ Login
     with us and explore the world</h3>
  </div>
 </body>
-    <style>
+ <style>
     body{
         background-image:url(https://wallpapersok.com/images/hd/dreamy-forest-scenery-z5frexe034vxs5yt.jpg);
 background-repeat: no-repeat;
 background-size:cover;
-    }
-    .login{
+}
+.login{
         background-color: aliceblue;
         margin-left: 790px; 
         margin-top: 90px;
-        background-image: url(https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2017/04/epic-waterfalls-cover.jpg); 
+        background-image: url(https://www.shutterstock.com/blog/wp- content/uploads/sites/5/2017/04/epic-waterfalls-cover.jpg); 
    background-repeat: no-repeat;
 background-size:cover; border-color: rgb(242, 192, 234) ;
     border-width:5px ;
@@ -84,7 +84,6 @@ button{
      background-color: rgb(227, 186, 216);
      color: black;
      margin-top: 20px;
-
 }
 button:hover{
     cursor: pointer;
@@ -131,8 +130,7 @@ h6{
     <div class="home1">
         <h1>✈️ Wanderly</h1>
       <ul>
-
-  <li> <a href="homepage.html">Home</a>
+<li> <a href="homepage.html">Home</a>
   </li>
         <li><a href="about us.html">About Us</a></li>
         <li><a href="explore.html">Explore</a></li>
@@ -233,17 +231,13 @@ background-repeat: no-repeat;
 background-size: cover;
 position: relative;
 z-index: 0;
-
 }
-   
-
 h4{
     margin-top: 90px;
     color: aliceblue;
     margin-left: 50px;
     font-size: 80px;
 }
-
 h5{
     color: aliceblue;
     margin-left: 50px;
@@ -256,9 +250,7 @@ margin-bottom: 90px;
 height: 60px;
 width: 170px;
 color: black;
-
 }
-
 .button2{
 margin-left: 80px;
 height: 60px;
@@ -274,9 +266,8 @@ h2{
 color: blue;
 margin-left: 1400px;
 margin-top: -110px;
-
 }
-h2:hover{
+h2:hover {
     cursor: pointer;
     color: black;
 }
@@ -328,8 +319,7 @@ h2:hover{
         .Small:hover{
             transform:  translateY(-25px);
         }
-        
-.Mainimage{
+    .Mainimage{
             transition: all 1s ease-in-out;
             width: 36%;
             height: 500px;
@@ -436,7 +426,6 @@ h2:hover{
     </div>
     </div>
     </div>
-
 <div class="main">
 <h5>Wanderly</h5>
 <p>Let's make your neat <br> journey your best <br> adventure yet.</p>
@@ -696,8 +685,7 @@ margin-top: -50px;
      <div class="home1">
         <h1>✈️ Wanderly</h1>
       <ul>
-
-  <li> <a href="homepage.html">Home</a>
+ <li> <a href="homepage.html">Home</a>
   </li>
         <li><a href="about us.html">About Us</a></li>
         <li><a href="explore.html">Explore</a></li>
@@ -707,9 +695,7 @@ margin-top: -50px;
 <div class="explore">
 <h1>Explore Destination</h1> <br>
 </div>
-
 <div class="all1">
-
 <button type="button" id="button1"><a href="explore.html">All</a></button> 
 </div> <br>
 <div class="all2">
@@ -724,7 +710,6 @@ margin-top: -50px;
 <div class="all5">
    <button id="button5">Adventure</button> 
 </div>
-
 </div>
 <div class="Main">
         <div class="Small">
@@ -737,7 +722,7 @@ margin-top: -50px;
     </div>
     <div class="Small">
         <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sa6549607c78f5c11/image/ia92ef7fdac083280/version/1585069666/best-places-to-visit-in-spain-nerja-copyright-botond-horvath-european-best-destinations.jpg">
-        <button>Spain</button>
+ <button>Spain</button>
     </div>
     <div class="Small">
         <img src="https://resources.thomascook.in/images/holidays/staticPage/ThingsToDo/Scotland850.jpg">
@@ -760,7 +745,7 @@ margin-top: -50px;
     </div>
     <div class="Small">
         <img src="https://cdn.kimkim.com/files/a/images/e28c94ae4c1bb7b133f6039ab141910c3581949d/original-d8146eba4d5c03ddb9a619c95108daf4.jpg">
-        <button>Germany</button>
+<button>Germany</button>
     </div>
     </div>
     </div>
@@ -842,7 +827,6 @@ Contact
 <div class="all5">
    <button id="button5">Adventure</button> 
 </div>
-
 </div>
 <div class="Main">
         <div class="Small">
@@ -902,8 +886,7 @@ Contact
   </ol>
   </div>
 <div class="smallmain">
-    
-<h3>Top Destinations</h3>
+    <h3>Top Destinations</h3>
 <ol>
     <li>Bali</li> <br> <br>
  <li>UK</li><br> <br>
@@ -1259,36 +1242,117 @@ margin-top: -50px;
 </html>
 
 
+Contact
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <div class="home1">
+        <h1>✈️ Wanderly</h1>
+      <ul>
+<li> <a href="homepage.html">Home</a>
+  </li>
+        <li><a href="about us.html">About Us</a></li>
+        <li><a href="explore.html">Explore</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <button> <a href="login.html">Login</a></button>
+   </ul> </div>
+ <div class="get">
+    <h1>Get In Touch</h1>
+    <p>ᯓ ✈︎</p>
+    <h2>Have questions or need assistance? <br>
+    We're here to help!</h2>
+    <h3>✉ </h3> <h4>Email <br>
+    info@wanderly.com</h4>
+<h5>📞</h5> <h6>Phone <br>
++1234567890</h6>
+ </div>
+<div class="getin">
+    <h1>📌</h1>
+    <h2>Address  <br>123 Travel Street,Adventure City, <br>World 12345</h3>
+<h4>Follow Us</h4>
+<h5>🅾➤✆✉ⓕ</h5>
+</div>
+<div class="name">
+    <div>
+    </div>
+<h1>Your Name</h1>
+<div class="your">
+    <input type="text" placeholder="Enter your name">
+</div>
+<h2>Email Address</h2>
+<div class="emai">
+<input type="text" placeholder="Enter your email">
+</div>
+<h3>Subject</h3>
+<div class="sub"> 
+    <input type="text" placeholder="Enter your sunbject">
+</div>
+<h4>Message</h4>
+<div class="msg">
+    <input type="text" placeholder="Write your message">
+</div>
+<div class="send">
+<button type="button">Send Message</button>
+</div>
+</div>
+<div class="main">
+<h5>Wanderly</h5>
+<p>Let's make your neat <br> journey your best <br> adventure yet.</p>
+<h1>🅾➤✆✉ⓕ</h1>
+<div class="mainsmall">
+      <h4>Quick Links</h4>
+    <ol>
+    <li>
+        <a href="homepage.html">Home</a>
+    </li> <br> <br>
+    <li>
+        <a href="about us.html">About</a> <br> <br>
+    </li>
+    <li>
+         <a href="explore.html">Explore</a> <br>  <br>
+    </li>
+    <li><a href="contact">Contact</a></li>
+ </ol>
+</div>
+<div class="smallmain">
+    <h3>Top Destinations</h3>
+<ol>
+    <li>Bali</li> <br> <br>
+ <li>UK</li><br> <br>
+    <li>Germany</li> <br>
+</ol>
+</div>
+<div class="class">
+    <h3>Support</h3>
+<ol>
+    <li>FAQ</li> <br> <br>
+ <li>Privacy Policy</li><br> <br>
+    <li>Term & conditions</li> <br>
+</ol>
+</div>
+<div class="news">
+    <h6>NewLetter</h6>
+    <p>Subcribe to get the latest <br> travel update & offers.</p>
+<input type="text" ➤ placeholder="Enter your email➤"➤>
+</div>
+</div>
+ <style>
 .home1{
     background-color: rgb(242, 245, 246);
     color: rgb(13, 16, 19);
     padding-top: 50px;
     padding-left: 5px;
     padding: 20px;
-
-
 }
 li,h1,ul{
     display: inline;
-
 }
 h1{
    color: rgb(55, 11, 97); 
@@ -1296,16 +1360,13 @@ h1{
 ul{
     margin-left: 340px;
    padding-left: 10px;
-  
-}
+  }
 li{
     margin-left:30px;
 }
 li{
      padding-left: 60px;
      font-size: 34px;
-
-
 }
 button{
     height: 45px;
@@ -1320,206 +1381,130 @@ li:hover{
 }
 button:hover{
     cursor: pointer;
-}
-.explore h1{
-    margin-left: 420px;
-font-size: 80px; 
-position: relative;
-z-index: 3;
-margin-top: 80px;
-color: rgb(87, 18, 152);
-}
-.all1{
+} 
+.get h1{
     position: relative;
-    z-index: 1;
-    margin-left: 0px; 
-    margin-top: 20px;
+    z-index: 6;
+     margin-top:-120px;
+    margin-left: 60px;
 }
-.all1 button:hover{
-cursor: pointer;
-background-color: rgb(71, 15, 124);
+.get h1{
+    font-size: 70px;
+    margin-top: 120px;
+    color:  rgb(60, 11, 107);
 }
-
-.all1 button{
-      background-color: whitesmoke;
-    color: black;
-    height: 50px;
-    width: 90px;
-    position: relative;
-    z-index: 1;
-    margin-left: 320px;
-}
-.all2{
-  position: relative;
-    margin-left: 10px;
-margin-top: -55px;   
-}
-.all2 button:hover{
-cursor: pointer;
-background-color: rgb(71, 15, 124);
-}
-.all2 button{
-      background-color: whitesmoke;
-    color: black;
-    height: 50px;
-    width: 90px;
+.get p{
     position: relative;
     z-index: 2;
-    margin-left: 530px;
-margin-top: -200px;
+    font-size: 60px;
+    color: blue;
+    margin-left: 50px;
+    margin-top: -40px;
 }
-.all3{
-   position: relative;
-    margin-left: 420px; 
-    margin-top:-51px ;
+.get h2{
+    position: relative;
+    margin-left: 50px;
+    margin-top: -70px;
 }
-.all3 button:hover{
-cursor: pointer;
-background-color: rgb(71, 15, 124);
+.get h3{
+    position: relative;
+    margin-left: 50px;
+    font-size: 60px;
+    margin-top: -1px;
+    color: rgb(165, 48, 48);
 }
-.all3 button{
-      background-color: whitesmoke;
+.get h4{
+    position: relative;
+    margin-left: 150px;
+    margin-top: -115px;
     color: black;
-    height: 50px;
-    width: 90px;
+    font-size: 20px;
+}
+.get h5{
     position: relative;
-    z-index: 3;
-    margin-left: 320px;
+    margin-left: 57px;
+    font-size: 35px;
+    color: blue;
 }
-.all4{
-     position: relative;
-    margin-left: 930px;
-    margin-top: -51px;
+.get h6{
+    position: relative;
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: -106px;
 }
-.all4 button:hover{
-cursor: pointer;
-background-color: rgb(71, 15, 124);
+.getin h1{
+position: relative;
+margin-left: 50px;
+color: blue;
 }
-.all4 button{
-    background-color: whitesmoke;
+.getin h2{
+    position: relative;
+    margin-left: 140px;
+    margin-top: -50px;
+    font-size: 20px;
+}
+.getin h4{
+    position: relative;
+    margin-left: 50px;
+    font-size: 30px;
+}
+.getin h5{
+    position: relative;
+    margin-left: 50px;
+    font-size: 30px;
+    color: blue;
+    margin-top: -30px;
+}
+.name{ 
+    height: 650px;
+    width: 800px;
+    border-color: whitesmoke;
+    border-width: 4px;
+    border-style: solid;
+}
+.name{
+    position: relative;
+    z-index: 9;
+    margin-left: 670px;
+    margin-top: -650px;
+}
+.name div{
+    position: relative;
+    z-index: 6;
+margin-left: 30px;
+}
+.name h1,h2,h3,h4,h5{
+  position: relative;
+  z-index: 7;
+  margin-left: 30px;
+  }
+.name h1{
+    position: relative;
+    z-index: 8;
     color: black;
-    height: 50px;
-    width: 90px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.name input{
+    height: 40px;
+    width: 600px;
+}
+.your{
+position: relative;
+margin-top: 10px;
+}
+.msg input{
+    height: 160px;
+}
+.send button{
     position: relative;
-    z-index: 4;
-   
+    height: 40px;
+    width: 600px;
+    background-color: rgb(60, 11, 107);
+    color: white;
+    margin-top: 50px;
+    margin-left: 60px;
 }
-.all5{
-    position: relative;
-    margin-left: 820px; 
-    margin-top: -51px;
-}
-.all5 button:hover{
-cursor: pointer;
-background-color: rgb(71, 15, 124);
-}
-.all5 button{
-    background-color: whitesmoke;
-    color: black;
-    height: 50px;
-    width: 90px;
-    position: relative;
-    z-index: 5;
-    margin-left: 320px;
-}
-.Mainimage{
-            transition: all 1s ease-in-out;
-            width: 36%;
-            height: 500px;
-            margin-left: 32%;
-            margin-top: -150px;
-            border: 2px silver solid;
-            border-radius: 50px;
-            position: relative;
-        }
-        body:hover .Mainimage{
-            margin-top: -250px;
-        }
-        .Small{
-            width: 350px;
-            background-color: white;
-            text-align: center;
-            border-radius: 20px;
-              transition: all 0.5s ease-in-out;
-        }
-       .Small img{
-            width: 350px;
-            height: 250px;
-            margin-left: 0%;
-            margin-top: 0px;
-            border: 0px silver solid;
-            border-top-left-radius: 20px;
-            border-top-right-radius: 20px;
-            border-bottom-left-radius: 0px;
-            border-bottom-right-radius: 0px;
-            position: relative;
-        }
-        .Small button{
-            width: 300px;
-            height: 50px;
-            font-size: large;
-            background-color: white;
-            color: rgb(0, 0, 0);
-            border: 0px solid white;
-            font-weight: bolder;
-        }
-        .Main{
-            display: flex;
-            justify-content: space-evenly;
-        }
-        .Small:hover{
-            transform:  translateY(-25px);
-        }
-        
-.Mainimage{
-            transition: all 1s ease-in-out;
-            width: 36%;
-            height: 500px;
-            margin-left: 32%;
-            margin-top: -150px;
-            border: 2px silver solid;
-            border-radius: 50px;
-            position: relative;
-        }
-        body:hover .Mainimage{
-            margin-top: -250px;
-        }
-        .Small{
-            width: 350px;
-            background-color: white;
-            text-align: center;
-            border-radius: 20px;
-              transition: all 0.5s ease-in-out;
-        }
-       .Small img{
-            width: 350px;
-            height: 250px;
-            margin-left: 0%;
-            margin-top: 20px;
-            border: 0px silver solid;
-            border-top-left-radius: 20px;
-            border-top-right-radius: 20px;
-            border-bottom-left-radius: 0px;
-            border-bottom-right-radius: 0px;
-            position: relative;
-        }
-        .Small button{
-            width: 300px;
-            height: 50px;
-            font-size: large;
-            background-color: white;
-            color: rgb(0, 0, 0);
-            border: 0px solid white;
-            font-weight: bolder;
-        }
-        .Main{
-            display: flex;
-            justify-content: space-evenly;
-        }
-        .Small:hover{
-            transform:  translateY(-25px);
-        }
-
   .main{
     height: 450px;
      width: 1480px;
@@ -1532,10 +1517,8 @@ background-color: rgb(71, 15, 124);
 position: relative;
 z-index: 0;
    }    
-    
     .main h5{
-        
-        color: white;
+         color: white;
         position: relative;
         z-index: 3;
         margin-top: 60px;
@@ -1563,13 +1546,11 @@ font-size:30px ;
     z-index: 5;
 }
 .mainsmall   a{
-    
-    color: white;
+     color: white;
     margin-left:250px ;
     margin-top: -20px;
     font-size: 30px; 
-
-}
+    }
 .mainsmall a:hover{
     color: rgb(121, 221, 232);
     cursor: pointer;
@@ -1586,7 +1567,6 @@ font-size:30px ;
     margin-left: 580px;
     font-size: 25px;
     padding: 10px;
-
 }
 .class h3{
     position: relative;
@@ -1601,7 +1581,6 @@ font-size:30px ;
     margin-left: 830px;
     font-size: 25px;
     padding: 10px;
-
 }
 .news h6{
      position: relative;
@@ -1622,12 +1601,9 @@ margin-top: -50px;
  margin-left: 1230px;
  height: 30px;
 }
- </style>
+</style>
 </body>
 </html>
-Contact
-
-
 
 
 
