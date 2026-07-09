@@ -1,4 +1,4 @@
-Login
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,7 +116,7 @@ h6{
 </html>
 
 
-  Homepage
+  
 
 
 <!DOCTYPE html>
@@ -375,7 +375,12 @@ h2:hover {
 </style>
 </body>
 </html>
-                                                     About Us
+
+
+
+
+
+                                        
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -670,7 +675,7 @@ margin-top: -50px;
 </style>
 </html>
 
-  Explore
+  
 
 
   
@@ -1242,7 +1247,6 @@ margin-top: -50px;
 </html>
 
 
-Contact
 
 
 <!DOCTYPE html>
